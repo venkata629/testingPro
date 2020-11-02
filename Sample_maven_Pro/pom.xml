@@ -36,22 +36,7 @@
 			<scope>compile</scope>
 		</dependency>
 		
-	   
-	   <!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-data-jpa -->
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-data-jpa</artifactId>
-			<version>2.1.0.RELEASE</version>
-		</dependency>
 
-		
-
-		<!-- API -->
-		<dependency>
-			<groupId>jakarta.xml.bind</groupId>
-			<artifactId>jakarta.xml.bind-api</artifactId>
-			<version>2.3.3</version>
-		</dependency>
 
 		<!-- Runtime -->
 		<dependency>
@@ -61,33 +46,11 @@
 			<scope>runtime</scope>
 		</dependency>
 
-		<!-- https://mvnrepository.com/artifact/javax.xml.bind/jaxb-api -->
+	
 		
 
-		<!-- https://mvnrepository.com/artifact/javax.activation/activation -->
-		<dependency>
-			<groupId>javax.activation</groupId>
-			<artifactId>activation</artifactId>
-			<version>1.1</version>
-		</dependency>
-
-		<!-- https://mvnrepository.com/artifact/org.glassfish.jaxb/jaxb-runtime -->
-		<dependency>
-			<groupId>org.glassfish.jaxb</groupId>
-			<artifactId>jaxb-runtime</artifactId>
-			<version>2.3.0-b170127.1453</version>
-		</dependency>
-
-		<!-- https://mvnrepository.com/artifact/javax.activation/activation -->
 
 		
-
-		<dependency>
-			<groupId>javax.xml.bind</groupId>
-			<artifactId>jaxb-api</artifactId>
-			<version>2.3.0</version>
-		</dependency>
-
 
 
 		
