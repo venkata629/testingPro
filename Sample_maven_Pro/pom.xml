@@ -91,7 +91,9 @@
                 <artifactId>maven-surefire-plugin</artifactId>
                 <version>2.22.0</version>
                 <configuration>
-                <suiteXmlFiles>/Users/vsurya/eclipse-workspace/Sample_maven_Pro/src/main/resources/testng.xml</suiteXmlFiles>
+                <suiteXmlFiles>
+			<suiteXmlFile>src/main/resources/testng.xml</suiteXmlFile>
+		</suiteXmlFiles>	
                 </configuration>
             </plugin>
         </plugins>
