@@ -4,7 +4,7 @@
 
   <groupId>Sample_maven_Pro</groupId>
   <artifactId>Sample_maven_Pro</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0.0</version>
   <packaging>jar</packaging>
 
   <name>Sample_maven_Pro</name>
