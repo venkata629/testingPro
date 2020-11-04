@@ -7,7 +7,7 @@
 	<artifactId>Sample_maven_Pro</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<name>Sample_maven_Pro</name>
 	<url>http://maven.apache.org</url>
