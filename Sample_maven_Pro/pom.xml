@@ -5,9 +5,9 @@
 
 	<groupId>Sample_maven_Pro</groupId>
 	<artifactId>Sample_maven_Pro</artifactId>
-	<version>1.0.0-RELEASE</version>
+	<version>1.0.0-SNAPSHOT</version>
 
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>Sample_maven_Pro</name>
 	<url>http://maven.apache.org</url>
